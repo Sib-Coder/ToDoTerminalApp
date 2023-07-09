@@ -3,7 +3,7 @@
 
 ## Для начала работы 
 ```bash
-> git clone 
+> git clone https://github.com/Sib-Coder/ToDoTerminalApp.git
 > go get "github.com/alexeyco/simpletable"
 ```
 ## Режимы работы:
@@ -34,3 +34,4 @@
 
 ```
 ## Пример работы в Консоли
+![Terminal](https://github.com/Sib-Coder/ToDoTerminalApp/blob/main/doc/terminalscrin.png)
